@@ -1,8 +1,21 @@
+```bash
+patricio@dev:~$ whoami
+> patricio-gonzalez
+
+patricio@dev:~$ cat role.txt
+> Senior Fintech Analyst @ Mercado Libre
+> +300% payment volume · 1M+ beneficiaries · #2 social benefits payer 🇦🇷
+
+patricio@dev:~$ ls skills/
+> SQL  Python  BigQuery  n8n  LookerStudio  Tableau  Airflow  AWS  Claude
+
+patricio@dev:~$ echo $STATUS
+> "building things that matter 🚀"
+```
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2D81FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Patricio+%F0%9F%91%8B;Senior+Fintech+Analyst+%40+Mercado+Pago;Industrial+Engineer+%C3%97+Builder;Data+%E2%86%92+Automation+%E2%86%92+Product)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=pato-gonzalez&color=2D81FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=pato-gonzalez&color=39D353&style=flat-square&label=Profile+Views)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cpatriciogg-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpatriciogg/)
 [![Location](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-🇦🇷-lightgrey?style=flat-square)](https://github.com/pato-gonzalez)
@@ -13,9 +26,9 @@
 
 ## About me
 
-Industrial Engineer turned data/product/automation builder. I lead the **ANSES product at Mercado Pago** — ensuring 1M+ beneficiaries receive social benefits through the platform. I don't just analyze problems; I build the technical solution myself.
+Industrial Engineer turned data/product/automation builder. I lead the **ANSES product at Mercado Libre** — ensuring 1M+ beneficiaries receive social benefits through the platform. I don't just analyze problems; I build the technical solution myself.
 
-- 🏦 **Senior Fintech Analyst @ Mercado Pago** — Social Benefits · Feb 2025–present
+- 🏦 **Senior Fintech Analyst @ Mercado Libre** — Social Benefits · Feb 2025–present
 - 📈 +300% payment volume growth · #2 social benefits payer in Argentina
 - 🎓 Industrial Engineering (Mechatronics) · Universidad Austral · GPA 7.49
 - 🏫 **Professor** · Operations Research · Universidad Austral · 2018–present
@@ -51,6 +64,7 @@ Industrial Engineer turned data/product/automation builder. I lead the **ANSES p
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Daily-CC785C?style=flat-square)
 ![Cursor](https://img.shields.io/badge/Cursor-Daily-000000?style=flat-square)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-Daily-4285F4?style=flat-square&logo=google&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-Nous%20Research-7C3AED?style=flat-square)
 
 ---
 
