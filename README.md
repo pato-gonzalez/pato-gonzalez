@@ -1,19 +1,6 @@
-```bash
-patricio@dev:~$ whoami
-> patricio-gonzalez
-
-patricio@dev:~$ cat role.txt
-> Senior Fintech Analyst @ Mercado Libre
-> +300% payment volume · 1M+ beneficiaries · #2 social benefits payer 🇦🇷
-
-patricio@dev:~$ ls skills/
-> SQL  Python  BigQuery  n8n  LookerStudio  Tableau  Airflow  AWS  Claude
-
-patricio@dev:~$ echo $STATUS
-> "building things that matter 🚀"
-```
-
 <div align="center">
+
+[![Terminal animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=39D353&background=0D1117&center=true&vCenter=false&multiline=true&width=700&height=110&lines=patricio%40dev%3A~%24+whoami;%3E+patricio-gonzalez;patricio%40dev%3A~%24+cat+role.txt;%3E+Senior+Fintech+Analyst+%40+Mercado+Libre;patricio%40dev%3A~%24+echo+%24STATUS;%3E+%22building+things+that+matter+%F0%9F%9A%80%22)](https://github.com/pato-gonzalez)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pato-gonzalez&color=39D353&style=flat-square&label=Profile+Views)
 
