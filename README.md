@@ -30,7 +30,7 @@ I don't stop at the diagnosis. I go into the technical layer until I actually un
 - 🔍 **Retrieval** — built a document intake and retrieval pipeline for a fintech compliance team in 2022, before RAG was a category. I run the generation half now on my own vector database, feeding a local agent
 - 🔧 **Data engineering** — automated KPI pipelines in BigQuery orchestrated with n8n; Python DAGs on Airflow; two weeks of manual reporting cut to under an hour
 - 🎓 **Industrial Engineer (Mechatronics)** · Universidad Austral · GPA 7.49
-- 🏫 **Adjunct Professor** · Operations Research & Quantitative Methods · Universidad Austral · since 2018
+- 🏫 **Adjunct Professor** · Operations Research (2022–) & Quantitative Methods (2026–) · Universidad Austral · Teaching since 2018
 - 👁️ **OpenCV AI Competition 2021** — Phase 1 finalist, with my degree thesis on computer vision for industrial process optimization
 - 🌎 Spanish native · English C1 (Cambridge FCE, grade A\*) · Buenos Aires, UTC-3
 
@@ -105,7 +105,7 @@ Selected public work across AI engineering, data automation, and computer vision
 
 ## 📊 Public GitHub activity
 
-Pull-request and contribution counts below reflect public repositories only. My current main build, separ8.app, is a private codebase developed through human-directed agentic coworking; earlier Lemon contributions live in private organization repositories.
+Pull-request and contribution counts below reflect public repositories only. My current main build, separ8.app, is a private codebase developed through human-directed agentic coworking and human in the loop workflow; earlier Lemon and actual Mercado Libre contributions live in private organization repositories.
 
 <div align="center">
 
