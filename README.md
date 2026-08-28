@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pato-gonzalez&color=39D353&style=flat-square&label=Profile+Views)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cpatriciogg-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpatriciogg/)
-[![separ8.app](https://img.shields.io/badge/separ8.app-live-111111?style=flat-square&logo=vercel&logoColor=white)](https://separ8.app)
+[![separ8.app](https://img.shields.io/badge/separ8.app-live-238636?style=flat-square&logo=vercel&logoColor=white)](https://separ8.app)
 ![Location: Buenos Aires, Argentina](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-UTC--3-111111?style=flat-square)
 
 </div>
@@ -71,6 +71,7 @@ I don't stop at the diagnosis. I go into the technical layer until I actually un
 **AI tooling (daily driver)**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Daily-CC785C?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-Daily-10A37F?style=flat-square)
 ![Cursor](https://img.shields.io/badge/Cursor-Daily-000000?style=flat-square)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-Daily-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-Nous%20Research-7C3AED?style=flat-square)
