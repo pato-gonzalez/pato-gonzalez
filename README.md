@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Carlos Patricio Gonzalez Guerrico — Senior Data Analyst and AI Engineer in Buenos Aires">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
+    <img src="./assets/profile-header.svg" width="100%" alt="Carlos Patricio Gonzalez Guerrico — Senior Data Analyst and AI Engineer in Buenos Aires, focused on data pipelines, AI agents, and retrieval systems">
+  </picture>
 </p>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal-static.svg">
-  <img alt="Terminal animation: Patricio Gonzalez, Senior Data Analyst and AI Engineer at Mercado Pago" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=1000&amp;color=39D353&amp;background=0D1117&amp;center=true&amp;vCenter=false&amp;multiline=true&amp;width=780&amp;height=140&amp;lines=patricio%40dev%3A~%24%20whoami;%3E%20patricio-gonzalez;patricio%40dev%3A~%24%20cat%20role.txt;%3E%20Senior%20Data%20Analyst%20%26%20AI%20Engineer%20%40%20Mercado%20Pago;patricio%40dev%3A~%24%20echo%20%24STATUS;%3E%20%22data%20pipelines%2C%20AI%20agents%20and%20retrieval%20in%20production%22">
-</picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pato-gonzalez&color=39D353&style=flat-square&label=Profile+Views)
 
@@ -79,7 +77,34 @@ I don't stop at the diagnosis. I go into the technical layer until I actually un
 
 ---
 
-## 📊 GitHub Stats
+## 🗂️ Projects
+
+Selected public work across AI engineering, data automation, and computer vision.
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**jobstash-community-mcp**](https://github.com/pato-gonzalez/jobstash-community-mcp) | MCP server that lets AI agents search open job listings on JobStash. Ships an `mcp.json` manifest and a `.well-known/mcp-server.json` endpoint, so any MCP client can discover it. Built at a Vercel hackathon | TypeScript · MCP · Vercel |
+| [**ProyectoRobotVA**](https://github.com/pato-gonzalez/ProyectoRobotVA) | My engineering degree thesis: a computer vision system for industrial process optimization. Phase 1 finalist in the OpenCV AI Competition 2021 | Python · OpenCV |
+| [**design-system-stack**](https://github.com/pato-gonzalez/design-system-stack) | A skill bundle for AI coding agents: extract a design system from a live site and generate token files | Python · AI agents |
+| [**guia-corporativa-claude**](https://github.com/pato-gonzalez/guia-corporativa-claude) | Spanish-language guide for setting up Claude Code on a corporate machine | HTML · docs |
+| [**MetabaseGsheetsIntegration**](https://github.com/pato-gonzalez/MetabaseGsheetsIntegration) | Import a Metabase question straight into a Google Sheet | JavaScript · Apps Script |
+
+---
+
+## 🚀 What I'm building now
+
+| Project | Description | Stack |
+|---|---|---|
+| [**separ8.app**](https://separ8.app) | **Current main project · private codebase.** AI audio stem separator running models on serverless GPUs | Python · Modal · audio ML |
+| **Personal knowledge RAG** | Notes, posts, video embeddings and books indexed into a vector database, feeding a local Hermes agent. This is where I run the generation half of retrieval | Vector DBs · embeddings · RAG |
+| **MCP server for a personal agent knowledge base** | Self-hosted MCP server giving my local agents access to a shared knowledge base | MCP · self-hosted |
+| **AI automation pipelines** | Web scraping and workflow automation for recurring work | n8n · Python · Claude |
+
+---
+
+## 📊 Public GitHub activity
+
+Pull-request and contribution counts below reflect public repositories only. My current main build, separ8.app, is a private codebase developed through human-directed agentic coworking; earlier Lemon contributions live in private organization repositories.
 
 <div align="center">
 
@@ -102,31 +127,6 @@ I don't stop at the diagnosis. I go into the technical layer until I actually un
 </picture>
 
 </div>
-
----
-
-## 🗂️ Projects
-
-Selected public work across AI engineering, data automation, and computer vision.
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**jobstash-community-mcp**](https://github.com/pato-gonzalez/jobstash-community-mcp) | MCP server that lets AI agents search open job listings on JobStash. Ships an `mcp.json` manifest and a `.well-known/mcp-server.json` endpoint, so any MCP client can discover it. Built at a Vercel hackathon | TypeScript · MCP · Vercel |
-| [**ProyectoRobotVA**](https://github.com/pato-gonzalez/ProyectoRobotVA) | My engineering degree thesis: a computer vision system for industrial process optimization. Phase 1 finalist in the OpenCV AI Competition 2021 | Python · OpenCV |
-| [**design-system-stack**](https://github.com/pato-gonzalez/design-system-stack) | A skill bundle for AI coding agents: extract a design system from a live site and generate token files | Python · AI agents |
-| [**guia-corporativa-claude**](https://github.com/pato-gonzalez/guia-corporativa-claude) | Spanish-language guide for setting up Claude Code on a corporate machine | HTML · docs |
-| [**MetabaseGsheetsIntegration**](https://github.com/pato-gonzalez/MetabaseGsheetsIntegration) | Import a Metabase question straight into a Google Sheet | JavaScript · Apps Script |
-
----
-
-## 🚀 What I'm building (side projects)
-
-| Project | Description | Stack |
-|---|---|---|
-| **Personal knowledge RAG** | Notes, posts, video embeddings and books indexed into a vector database, feeding a local Hermes agent. This is where I run the generation half of retrieval | Vector DBs · embeddings · RAG |
-| [**separ8.app**](https://separ8.app) | AI audio stem separator running models on serverless GPUs | Python · Modal · audio ML |
-| **MCP server for a personal agent knowledge base** | Self-hosted MCP server giving my local agents access to a shared knowledge base | MCP · self-hosted |
-| **AI automation pipelines** | Web scraping and workflow automation for recurring work | n8n · Python · Claude |
 
 ---
 
