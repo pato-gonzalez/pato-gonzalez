@@ -29,17 +29,37 @@
         --color-status: #34d399;
         --motion-duration-status: 2.8s;
         --motion-duration-cursor: 1.1s;
+        --motion-duration-entrance: 460ms;
         --motion-ease-standard: cubic-bezier(.2, 0, 0, 1);
         --motion-ease-cursor: steps(1, end);
+        --motion-ease-entrance: cubic-bezier(.22, 1, .36, 1);
+        --motion-delay-kicker: 0ms;
+        --motion-delay-name: 80ms;
+        --motion-delay-role: 160ms;
+        --motion-delay-meta: 240ms;
+        --motion-delay-terminal-command: 320ms;
+        --motion-delay-terminal-output: 400ms;
+        --motion-delay-focus-command: 480ms;
+        --motion-delay-focus-output: 560ms;
       }
       .sans { font-family: "Geist Sans Embedded", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
       .mono { font-family: "Geist Mono Embedded", ui-monospace, SFMono-Regular, Menlo, monospace; }
       .status { animation: status-pulse var(--motion-duration-status) var(--motion-ease-standard) infinite; }
       .cursor { animation: cursor-blink var(--motion-duration-cursor) var(--motion-ease-cursor) infinite; }
+      .enter { animation-name: hero-enter; animation-duration: var(--motion-duration-entrance); animation-timing-function: var(--motion-ease-entrance); animation-fill-mode: both; }
+      .enter-kicker { animation-delay: var(--motion-delay-kicker); }
+      .enter-name { animation-delay: var(--motion-delay-name); }
+      .enter-role { animation-delay: var(--motion-delay-role); }
+      .enter-meta { animation-delay: var(--motion-delay-meta); }
+      .enter-terminal-command { animation-delay: var(--motion-delay-terminal-command); }
+      .enter-terminal-output { animation-delay: var(--motion-delay-terminal-output); }
+      .enter-focus-command { animation-delay: var(--motion-delay-focus-command); }
+      .enter-focus-output { animation-delay: var(--motion-delay-focus-output); }
       @keyframes status-pulse { 0%, 100% { opacity: .52; } 50% { opacity: 1; } }
       @keyframes cursor-blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: .28; } }
+      @keyframes hero-enter { from { opacity: .82; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
       @media (prefers-reduced-motion: reduce) {
-        .status, .cursor { animation: none; opacity: 1; }
+        .status, .cursor, .enter { animation: none; opacity: 1; transform: none; }
       }
     </style>
   </defs>
@@ -49,16 +69,20 @@
   <rect x="24" y="24" width="1152" height="352" rx="12" fill="url(#grid)" stroke="#ffffff" stroke-opacity="0.1"/>
   <path d="M72 264H1128" stroke="#ffffff" stroke-opacity="0.13"/>
 
-  <text x="72" y="80" class="mono" fill="var(--color-text-secondary)" font-size="15" letter-spacing="2">DATA / AI / FINTECH</text>
-  <text x="72" y="152" class="sans" fill="var(--color-text-primary)" font-size="44" font-weight="650" letter-spacing="-1.45">Carlos Patricio Gonzalez Guerrico</text>
-  <text x="72" y="198" class="sans" fill="#d4d4d8" font-size="24" letter-spacing="-.35">Senior Data Analyst and AI Engineer</text>
-  <circle class="status" cx="77" cy="231" r="5" fill="var(--color-status)"/>
-  <text x="92" y="237" class="mono" fill="var(--color-text-secondary)" font-size="15">BUENOS AIRES · UTC−3</text>
+  <text x="72" y="80" class="mono enter enter-kicker" fill="var(--color-text-secondary)" font-size="15" letter-spacing="2">DATA / AI / FINTECH</text>
+  <text x="72" y="152" class="sans enter enter-name" fill="var(--color-text-primary)" font-size="44" font-weight="650" letter-spacing="-1.45">Carlos Patricio Gonzalez Guerrico</text>
+  <text x="72" y="198" class="sans enter enter-role" fill="#d4d4d8" font-size="24" letter-spacing="-.35">Senior Data Analyst and AI Engineer</text>
+  <g class="enter enter-meta">
+    <circle class="status" cx="77" cy="231" r="5" fill="var(--color-status)"/>
+    <text x="92" y="237" class="mono" fill="var(--color-text-secondary)" font-size="15">BUENOS AIRES · UTC−3</text>
+  </g>
 
-  <text x="72" y="296" class="mono" fill="var(--color-text-terminal)" font-size="17">patricio@dev:~$ cat role.txt</text>
-  <rect class="cursor" x="370" y="279" width="7" height="20" rx="1" fill="var(--color-status)"/>
-  <text x="72" y="319" class="mono" fill="#a7f3d0" font-size="17">&gt; Senior Data Analyst &amp; AI Engineer @ Mercado Pago</text>
-  <text x="72" y="343" class="mono" fill="var(--color-text-terminal)" font-size="17">patricio@dev:~$ echo $FOCUS</text>
-  <text x="72" y="366" class="mono" fill="#a7f3d0" font-size="17">&gt; data pipelines · AI agents · retrieval systems</text>
+  <text x="72" y="296" class="mono enter enter-terminal-command" fill="var(--color-text-terminal)" font-size="17">patricio@dev:~$ cat role.txt</text>
+  <g class="enter enter-terminal-command">
+    <rect class="cursor" x="370" y="279" width="7" height="20" rx="1" fill="var(--color-status)"/>
+  </g>
+  <text x="72" y="319" class="mono enter enter-terminal-output" fill="#a7f3d0" font-size="17">&gt; Senior Data Analyst &amp; AI Engineer @ Mercado Pago</text>
+  <text x="72" y="343" class="mono enter enter-focus-command" fill="var(--color-text-terminal)" font-size="17">patricio@dev:~$ echo $FOCUS</text>
+  <text x="72" y="366" class="mono enter enter-focus-output" fill="#a7f3d0" font-size="17">&gt; data pipelines · AI agents · retrieval systems</text>
 
 </svg>
