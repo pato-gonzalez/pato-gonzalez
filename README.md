@@ -1,11 +1,19 @@
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Carlos Patricio Gonzalez Guerrico — Senior Data Analyst and AI Engineer in Buenos Aires">
+</p>
+
 <div align="center">
 
-[![Terminal animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=39D353&background=0D1117&center=true&vCenter=false&multiline=true&width=700&height=110&lines=patricio%40dev%3A~%24+whoami;%3E+patricio-gonzalez;patricio%40dev%3A~%24+cat+role.txt;%3E+Senior+Fintech+Analyst+%40+Mercado+Libre;patricio%40dev%3A~%24+echo+%24STATUS;%3E+%22building+things+that+matter+%F0%9F%9A%80%22)](https://github.com/pato-gonzalez)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal-static.svg">
+  <img alt="Terminal animation: Patricio Gonzalez, Senior Data Analyst and AI Engineer at Mercado Pago" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=1000&amp;color=39D353&amp;background=0D1117&amp;center=true&amp;vCenter=false&amp;multiline=true&amp;width=780&amp;height=140&amp;lines=patricio%40dev%3A~%24%20whoami;%3E%20patricio-gonzalez;patricio%40dev%3A~%24%20cat%20role.txt;%3E%20Senior%20Data%20Analyst%20%26%20AI%20Engineer%20%40%20Mercado%20Pago;patricio%40dev%3A~%24%20echo%20%24STATUS;%3E%20%22data%20pipelines%2C%20AI%20agents%20and%20retrieval%20in%20production%22">
+</picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pato-gonzalez&color=39D353&style=flat-square&label=Profile+Views)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cpatriciogg-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpatriciogg/)
-[![Location](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-🇦🇷-lightgrey?style=flat-square)](https://github.com/pato-gonzalez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cpatriciogg-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpatriciogg/)
+[![separ8.app](https://img.shields.io/badge/separ8.app-live-111111?style=flat-square&logo=vercel&logoColor=white)](https://separ8.app)
+![Location: Buenos Aires, Argentina](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-UTC--3-111111?style=flat-square)
 
 </div>
 
@@ -13,14 +21,20 @@
 
 ## About me
 
-Industrial Engineer turned data/product/automation builder. I lead the **ANSES product at Mercado Libre** — ensuring 1M+ beneficiaries receive social benefits through the platform. I don't just analyze problems; I build the technical solution myself.
+Senior Data Analyst and AI Engineer in fintech. Data pipelines, AI agents and retrieval systems in production.
 
-- 🏦 **Senior Fintech Analyst @ Mercado Libre** — Social Benefits · Feb 2025–present
-- 📈 +300% payment volume growth · #2 social benefits payer in Argentina
-- 🎓 Industrial Engineering (Mechatronics) · Universidad Austral · GPA 7.49
-- 🏫 **Professor** · Operations Research · Universidad Austral · 2018–present
-- 🤖 OpenCV AI Competition Phase 1 Finalist (2021)
-- 🌎 Spanish native · English C1 (Cambridge FCE A\*)
+I own the data and AI layer behind a payments product: SQL and BigQuery pipelines, cohort dashboards, and AI agents that take recurring analysis off the team's hands. Today that means the Individuals segment at Mercado Pago and the ANSES product, the digital channel that delivers social benefits to more than 1M people in Argentina. When I joined we were processing around 500K payments per month; I helped take it past 1.8M in under a year.
+
+I don't stop at the diagnosis. I go into the technical layer until I actually understand it, and then I build the fix.
+
+- 🏦 **Senior Data Analyst & AI Engineer** · Mercado Pago (Mercado Libre) · Feb 2025–present
+- 🤖 **AI engineering** — MCP servers, retrieval systems, and specialized agents for SQL querying, analysis, dashboard generation and web scraping. Several are used by other business units
+- 🔍 **Retrieval** — built a document intake and retrieval pipeline for a fintech compliance team in 2022, before RAG was a category. I run the generation half now on my own vector database, feeding a local agent
+- 🔧 **Data engineering** — automated KPI pipelines in BigQuery orchestrated with n8n; Python DAGs on Airflow; two weeks of manual reporting cut to under an hour
+- 🎓 **Industrial Engineer (Mechatronics)** · Universidad Austral · GPA 7.49
+- 🏫 **Adjunct Professor** · Operations Research & Quantitative Methods · Universidad Austral · since 2018
+- 👁️ **OpenCV AI Competition 2021** — Phase 1 finalist, with my degree thesis on computer vision for industrial process optimization
+- 🌎 Spanish native · English C1 (Cambridge FCE, grade A\*) · Buenos Aires, UTC-3
 
 ---
 
@@ -46,7 +60,17 @@ Industrial Engineer turned data/product/automation builder. I lead the **ANSES p
 ![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**AI (daily)**
+**AI Engineering (building with)**
+
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-retrieval%20augmented%20generation-1C7C54?style=flat-square)
+![Information Retrieval](https://img.shields.io/badge/Information%20Retrieval-chunking%20%C2%B7%20OCR-1C7C54?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-production-CC785C?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-embeddings-FF6F00?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR-document%20pipelines-546E7A?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-computer%20vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**AI tooling (daily driver)**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Daily-CC785C?style=flat-square)
 ![Cursor](https://img.shields.io/badge/Cursor-Daily-000000?style=flat-square)
@@ -59,11 +83,23 @@ Industrial Engineer turned data/product/automation builder. I lead the **ANSES p
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pato-gonzalez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pato-gonzalez&amp;theme=github_dark&amp;title_color=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pato-gonzalez&amp;theme=github">
+  <img alt="Patricio Gonzalez's GitHub contribution statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pato-gonzalez&amp;theme=github">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pato-gonzalez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pato-gonzalez&amp;theme=github_dark&amp;title_color=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pato-gonzalez&amp;theme=github">
+  <img alt="Patricio Gonzalez's most-used repository languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pato-gonzalez&amp;theme=github">
+</picture>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pato-gonzalez&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pato-gonzalez&amp;theme=github_dark&amp;title_color=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pato-gonzalez&amp;theme=github">
+  <img alt="Patricio Gonzalez's GitHub contribution activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pato-gonzalez&amp;theme=github">
+</picture>
 
 </div>
 
@@ -71,18 +107,15 @@ Industrial Engineer turned data/product/automation builder. I lead the **ANSES p
 
 ## 🗂️ Projects
 
-<div align="center">
+Selected public work across AI engineering, data automation, and computer vision.
 
-[![design-system-stack](https://github-readme-stats.vercel.app/api/pin/?username=pato-gonzalez&repo=design-system-stack&theme=tokyonight&hide_border=true)](https://github.com/pato-gonzalez/design-system-stack)
-[![jobstash-community-mcp](https://github-readme-stats.vercel.app/api/pin/?username=pato-gonzalez&repo=jobstash-community-mcp&theme=tokyonight&hide_border=true)](https://github.com/pato-gonzalez/jobstash-community-mcp)
-
-[![ProyectoRobotVA](https://github-readme-stats.vercel.app/api/pin/?username=pato-gonzalez&repo=ProyectoRobotVA&theme=tokyonight&hide_border=true)](https://github.com/pato-gonzalez/ProyectoRobotVA)
-[![MetabaseGsheetsIntegration](https://github-readme-stats.vercel.app/api/pin/?username=pato-gonzalez&repo=MetabaseGsheetsIntegration&theme=tokyonight&hide_border=true)](https://github.com/pato-gonzalez/MetabaseGsheetsIntegration)
-
-[![VA2020](https://github-readme-stats.vercel.app/api/pin/?username=pato-gonzalez&repo=VA2020&theme=tokyonight&hide_border=true)](https://github.com/pato-gonzalez/VA2020)
-[![guia-corporativa-claude](https://github-readme-stats.vercel.app/api/pin/?username=pato-gonzalez&repo=guia-corporativa-claude&theme=tokyonight&hide_border=true)](https://github.com/pato-gonzalez/guia-corporativa-claude)
-
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| [**jobstash-community-mcp**](https://github.com/pato-gonzalez/jobstash-community-mcp) | MCP server that lets AI agents search open job listings on JobStash. Ships an `mcp.json` manifest and a `.well-known/mcp-server.json` endpoint, so any MCP client can discover it. Built at a Vercel hackathon | TypeScript · MCP · Vercel |
+| [**ProyectoRobotVA**](https://github.com/pato-gonzalez/ProyectoRobotVA) | My engineering degree thesis: a computer vision system for industrial process optimization. Phase 1 finalist in the OpenCV AI Competition 2021 | Python · OpenCV |
+| [**design-system-stack**](https://github.com/pato-gonzalez/design-system-stack) | A skill bundle for AI coding agents: extract a design system from a live site and generate token files | Python · AI agents |
+| [**guia-corporativa-claude**](https://github.com/pato-gonzalez/guia-corporativa-claude) | Spanish-language guide for setting up Claude Code on a corporate machine | HTML · docs |
+| [**MetabaseGsheetsIntegration**](https://github.com/pato-gonzalez/MetabaseGsheetsIntegration) | Import a Metabase question straight into a Google Sheet | JavaScript · Apps Script |
 
 ---
 
@@ -90,13 +123,15 @@ Industrial Engineer turned data/product/automation builder. I lead the **ANSES p
 
 | Project | Description | Stack |
 |---|---|---|
-| **separ8.app** | ML-powered audio stem separator | Python · Modal · AI |
-| **AI automation pipelines** | Web scraping + workflow automation | n8n · Python · Claude |
-| **AI home lab** | Fine-tuned LORA models for content creation | Python · Diffusers |
+| **Personal knowledge RAG** | Notes, posts, video embeddings and books indexed into a vector database, feeding a local Hermes agent. This is where I run the generation half of retrieval | Vector DBs · embeddings · RAG |
+| [**separ8.app**](https://separ8.app) | AI audio stem separator running models on serverless GPUs | Python · Modal · audio ML |
+| **MCP server for a personal agent knowledge base** | Self-hosted MCP server giving my local agents access to a shared knowledge base | MCP · self-hosted |
+| **AI automation pipelines** | Web scraping and workflow automation for recurring work | n8n · Python · Claude |
 
 ---
 
 ## 📬 Let's connect
 
 - **LinkedIn:** [linkedin.com/in/cpatriciogg](https://www.linkedin.com/in/cpatriciogg/)
-- **GitHub:** [github.com/pato-gonzalez](https://github.com/pato-gonzalez)
+- **separ8.app:** [separ8.app](https://separ8.app)
+- **Location:** Buenos Aires, Argentina — UTC-3, 1-2h overlap with US East Coast
