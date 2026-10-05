@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
-    <img src="./assets/profile-header.svg" width="100%" alt="Carlos Patricio Gonzalez Guerrico — Senior Data Analyst and AI Engineer in Buenos Aires, focused on data pipelines, AI agents, and retrieval systems">
+    <img src="./assets/profile-header.svg" width="100%" alt="Carlos Patricio Gonzalez Guerrico — Senior Data Analyst focused on AI and automation in Buenos Aires">
   </picture>
 </p>
 
@@ -19,20 +19,22 @@
 
 ## About me
 
-Senior Data Analyst and AI Engineer in fintech. Data pipelines, AI agents and retrieval systems in production.
+Senior Data Analyst focused on AI and automation in fintech. I build data workflows, AI agents, and retrieval systems, and lead cross-functional business initiatives.
 
-I own the data and AI layer behind a payments product: SQL and BigQuery pipelines, cohort dashboards, and AI agents that take recurring analysis off the team's hands. Today that means the Individuals segment at Mercado Pago and the ANSES product, the digital channel that delivers social benefits to more than 1M people in Argentina. When I joined we were processing around 500K payments per month; I helped take it past 1.8M in under a year.
+I lead business analysis and strategy for Mercado Pago's Individuals segment and its ANSES payments product. The segment processed about 500K monthly payments in January 2025, 1.5M in January 2026, and 1.8M in June 2026. I build SQL and BigQuery workflows, cohort dashboards, and AI agents that take recurring analysis off the team's hands.
 
 I don't stop at the diagnosis. I go into the technical layer until I actually understand it, and then I build the fix.
 
-- 🏦 **Senior Data Analyst & AI Engineer** · Mercado Pago (Mercado Libre) · Feb 2025–present
+- 🏦 **Senior Data Analyst | AI & Automation** · Mercado Pago (Mercado Libre) · Jan 2025–present · internal title: Fintech Individuals Analyst
 - 🤖 **AI engineering** — MCP servers, retrieval systems, and specialized agents for SQL querying, analysis, dashboard generation and web scraping. Several are used by other business units
-- 🔍 **Retrieval** — built a document intake and retrieval pipeline for a fintech compliance team in 2022, before RAG was a category. I run the generation half now on my own vector database, feeding a local agent
-- 🔧 **Data engineering** — automated KPI pipelines in BigQuery orchestrated with n8n; Python DAGs on Airflow; two weeks of manual reporting cut to under an hour
+- 🔍 **Retrieval** — built a document intake and retrieval pipeline for a fintech compliance team in 2022; I also run retrieval with a local agent over a personal vector database
+- 🔧 **Data engineering** — automated KPI pipelines in BigQuery with n8n and Python DAGs on Airflow. Monthly reporting moved from 1–2 weeks of manual SQL preparation and execution to ETL-fed real-time dashboards, with a few hours of human review and adjustment
+- 🤝 **Cross-functional leadership** — led initiatives with Operations and CX teams of 10+ at Lemon and coordinated Product, Operations, CX, IT, and other teams at Mercado Pago as a business lead; no direct reports
+- ⚙️ **Automation at Lemon** — built a custom Apps Script and Metabase API integration across DAGs, Google Workspace, Jira, Slack, and Metabase, including OCR. Several teams stopped using Zapier; automation initiatives were associated with USD 20,000 in monthly savings
 - 🎓 **Industrial Engineer (Mechatronics)** · Universidad Austral · GPA 7.49
-- 🏫 **Adjunct Professor** · Operations Research (2022–) & Quantitative Methods (2026–) · Universidad Austral · Teaching since 2018
+- 🏫 **Universidad Austral** · Teaching Assistant (Sep 2018–Feb 2022); Adjunct Professor of Operations Research (FI, since Mar 2022) and Quantitative Methods (FCE, since 2026)
 - 👁️ **OpenCV AI Competition 2021** — Phase 1 finalist, with my degree thesis on computer vision for industrial process optimization
-- 🌎 Spanish native · English C1 (Cambridge FCE, grade A\*) · Buenos Aires, UTC-3
+- 🌎 Spanish native · English C1, validated through Cambridge FCE · Buenos Aires, UTC-3
 
 ---
 
